@@ -1,7 +1,7 @@
 ICS4U
 -----
 
-ICS4U Course for Mr. Seidel's classes
+ICS4U Course for Mr. Osudar's classes
 
 The overall learning goal for this class for the Spring 2017 class is as follows:
 * _By the end of this course, you should be able to create an accurately represented comprehensive visualization of data_
