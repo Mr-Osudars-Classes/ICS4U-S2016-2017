@@ -58,6 +58,6 @@ _Note: Some of these topics may be assigned as homework throughout the course, a
 * [Typora](https://www.typora.io/)
 * [Markdown Pad 2 - Portable](http://markdownpad.com/faq.html#portable)
 
-Please see the [GitHub Wiki](https://github.com/mrseidel-classes/ICS4U/wiki) for the rules and regulations of the classroom as decided by your peers.
+Please see the [GitHub Wiki](https://github.com/Mr-Osudars-Classes/ICS4U/wiki) for the rules and regulations of the classroom as decided by your peers.
 
 Please enter your [GitHub and 20Time details here](https://goo.gl/forms/5v259WFPKuWz9mlF2)
