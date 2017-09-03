@@ -3,7 +3,7 @@ ICS4U
 
 ICS4U Course for Mr. Osudar's classes
 
-The overall learning goal for this class for the Spring 2017 class is as follows:
+The overall learning goal for this class for the Fall 2017 class is as follows:
 * _By the end of this course, you should be able to create an accurately represented comprehensive visualization of data_
 
 The programming language we are using this year is *JavaScript* mainly using a library called *P5.js*
@@ -31,6 +31,9 @@ _Note: Some of these topics may be assigned as homework throughout the course, a
 * Theoretical Computer Science
 * Postsecondary Opportunities
 * Final Assessment (see course outline for more information on this topic)
+
+#### Challenges
+* [KhanAcademy](https://www.khanacademy.org/computing/computer-programming)
 
 #### Editor(s)
 * [Atom.io](http://atom.io/)
@@ -60,4 +63,4 @@ _Note: Some of these topics may be assigned as homework throughout the course, a
 
 Please see the [GitHub Wiki](https://github.com/Mr-Osudars-Classes/ICS4U/wiki) for the rules and regulations of the classroom as decided by your peers.
 
-Please enter your [GitHub and 20Time details here](https://goo.gl/forms/5v259WFPKuWz9mlF2)
+Please enter your(Need to make my own) [GitHub and 20Time details here](https://goo.gl/forms/5v259WFPKuWz9mlF2)
