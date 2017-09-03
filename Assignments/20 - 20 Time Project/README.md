@@ -12,7 +12,7 @@ Project Criteria
 * This project has to be new to you, and is something you won't get to do in another class (or this class).
 * Decide what you will produce/showcase.
 * Must be shared with the world by the end.
-* You must log your learning.  I suggest using a **20time** Git repo that you update on a regular basis (minimum once a week).  Check out he TEMPLATE.md above.
+* You must log your learning.  You must begin by using a **20time** Git repo that you update on a regular basis (**minimum once a week**).  Check out he TEMPLATE.md above. 
 * Failure is an option, the key is to learn from your mistakes!
 
 Looking for some ideas? [Check this video out.](https://www.youtube.com/watch?v=xupHuEk8p7g)
@@ -44,26 +44,26 @@ Submissables
 * Presentation
 * Reflection
 
-**All** due to the GitHub repository by Saturday, May 6th, 2017.
-GitHub [repo invitation link](https://classroom.github.com/assignment-invitations/387e6ad6238dea2f35ddb03008581a04).  Don't click this until you have completed the work with the _[04 - Git and GitHub](https://github.com/mrseidel-classes/ICS4U/tree/master/Assignments/04%20-%20Git%20and%20GitHub)_ assignment
+**All** due to the GitHub repository by December 1st, 2017.
+GitHub (FIX to AYJ)[repo invitation link](https://classroom.github.com/assignment-invitations/387e6ad6238dea2f35ddb03008581a04).  Don't click this until you have completed the work with the _[04 - Git and GitHub](https://github.com/mrseidel-classes/ICS4U/tree/master/Assignments/04%20-%20Git%20and%20GitHub)_ assignment
 
 Timeline(s) and Due Date(s)
 ----------
-* Proposal/pitch including (by Feb 18th, 2017):
+* Proposal/pitch including (by Sep 15th, 2017):
   * Purpose
   * Audience
   * Timeline
   * Resources required
-* Log sheet work, completed by 11:59pm every Saturday between February 12th and May 6th.
-* Monthly review with teacher on progress (March 8, April 12th)
-* Finalized log sheet by May 6th, 2017 at 11:59pm.
-* Presentation files by May 6th, 2017 at 11:59pm.
+* Log sheet work, completed by 11:59pm every Saturday between September 15th and December 1st.
+* Monthly review with teacher on progress (October 13th, November 13th)
+* Finalized log sheet by December 1st, 2017 at 11:59pm.
+* Presentation files by December 1st, 2017 at 11:59pm.
 
-#### The following dates will be put aside for this project (pending no interruptions):
-* February 16th, 23rd
-* March 1st, 8th, 20th, 29th
-* April 6th, 13th, 20th, 27th
-* May 3rd, 4th, 5th
+#### The following dates we will put aside 1 hour for this project (pending no interruptions):
+* September 8th, 15rd, 22nd, 29th
+* October 5th, 13th, 20th, 27th
+* November 3rd, 10th, 17th, 23rd
+* December 1st
 
 It is assumed that on the dates above that you work on your 20Time project, and not the other programming related assignments.
 
@@ -73,24 +73,27 @@ In-class presentations begin May 8th, 2017. There will be up to two presentation
 
 | Date                | Presenter(s)  |
 | ------------------- | ---------- |
-| May 8th, 2017  | Xiao, Kevin  |
-| May 9th, 2017  | **No presentations this day** |
-| May 10th, 2017  | **No presentations this day** |
-| May 11th, 2017  | Wayne, Kasun |
-| May 12th, 2017  | Steven, Ashar |
-| May 15th, 2017  | Obayed, Danny |
-| May 16th, 2017  | Xin Yu, David |
-| May 17th, 2017  | Arshad, Russell |
-| May 18th, 2017  | Fatima, Mohamad |
-| May 19th, 2017  | Wenqin, Jason |
-| May 23rd, 2017  | **No presentations this day** |
-| May 24th, 2017  | QianQian, Chris |
-| May 25th, 2017  | Roy, Noor |
-| May 26th, 2017  | Navya, Jyotiraditya |
-| May 29th, 2017  | Sakina, Brayden |
-| May 30th, 2017  | Bhavya, William |
-| May 31st, 2017  | Emad, Hassan |
-| Jun 1st, 2017  | Mr. Seidel |
+
+| Dec 4th, 2017  | tbd |
+| Dec 5th, 2017  | tbd |
+| Dec 6th, 2017  | tbd |
+| Dec 7th, 2017  | tbd |
+| Dec 8th, 2017  | tbd |
+| Dec 11th, 2017  | tbd |
+| Dec 12th, 2017  | tbd|
+| Dec 13th, 2017  | tbd |
+| Dec 14th, 2017  | tbd |
+| Dec 15th, 2017  | tbd |
+| Dec 18th, 2017  | tbd |
+| Dec 19th, 2017  | tbd |
+| Dec 20th, 2017  | tbd |
+| Dec 21th, 2017  | tbd |
+| Dec 22nd, 2017  | tbd |
+| Jan 8th, 2017  | tbd |
+| Jan 9th, 2017  | tbd |
+| Jan 10th, 2017  | tbd |
+| Jan 11th, 2017  | tbd |
+| Jan 12th, 2017  | Mr. Osudar & tbd|
 
 Presentation order was chosen randomly by placing all names (excluding mine) in a list and running them through [this](https://www.random.org/lists/) website 5 times.
 
